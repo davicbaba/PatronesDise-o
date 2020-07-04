@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDiseno.Singleton", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDiseno.Proxy", "PatronesDiseno.Proxy\PatronesDiseno.Proxy.csproj", "{2BD05529-66AD-4E5C-A0E2-48654D436E37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDiseno.Command", "PatronesDiseno.Command\PatronesDiseno.Command.csproj", "{088419BE-F975-481E-90AE-3BB865B78C7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDiseno.Command", "PatronesDiseno.Command\PatronesDiseno.Command.csproj", "{088419BE-F975-481E-90AE-3BB865B78C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDiseno.State", "PatronesDiseno.State\PatronesDiseno.State.csproj", "{B4B0FAF1-E04F-466D-B657-4C0D7E17D532}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{088419BE-F975-481E-90AE-3BB865B78C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{088419BE-F975-481E-90AE-3BB865B78C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{088419BE-F975-481E-90AE-3BB865B78C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B0FAF1-E04F-466D-B657-4C0D7E17D532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B0FAF1-E04F-466D-B657-4C0D7E17D532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B0FAF1-E04F-466D-B657-4C0D7E17D532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B0FAF1-E04F-466D-B657-4C0D7E17D532}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
