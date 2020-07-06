@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDiseno.State", "Pat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDiseno.Observer", "PatronesDiseno.Observer\PatronesDiseno.Observer.csproj", "{E1DB2D40-52B5-4F87-9A59-4F526864708A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDiseno.Adapter", "PatronesDiseno.Adapter\PatronesDiseno.Adapter.csproj", "{950AA67A-168A-489D-9FC0-1F85E97924DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{E1DB2D40-52B5-4F87-9A59-4F526864708A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1DB2D40-52B5-4F87-9A59-4F526864708A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1DB2D40-52B5-4F87-9A59-4F526864708A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950AA67A-168A-489D-9FC0-1F85E97924DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950AA67A-168A-489D-9FC0-1F85E97924DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950AA67A-168A-489D-9FC0-1F85E97924DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950AA67A-168A-489D-9FC0-1F85E97924DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
