@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDiseno.Proxy", "Pat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDiseno.Command", "PatronesDiseno.Command\PatronesDiseno.Command.csproj", "{088419BE-F975-481E-90AE-3BB865B78C7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDiseno.State", "PatronesDiseno.State\PatronesDiseno.State.csproj", "{B4B0FAF1-E04F-466D-B657-4C0D7E17D532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDiseno.State", "PatronesDiseno.State\PatronesDiseno.State.csproj", "{B4B0FAF1-E04F-466D-B657-4C0D7E17D532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDiseno.Observer", "PatronesDiseno.Observer\PatronesDiseno.Observer.csproj", "{E1DB2D40-52B5-4F87-9A59-4F526864708A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDiseno.Observer", "PatronesDiseno.Observer\PatronesDiseno.Observer.csproj", "{E1DB2D40-52B5-4F87-9A59-4F526864708A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDiseno.Adapter", "PatronesDiseno.Adapter\PatronesDiseno.Adapter.csproj", "{950AA67A-168A-489D-9FC0-1F85E97924DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDiseno.Adapter", "PatronesDiseno.Adapter\PatronesDiseno.Adapter.csproj", "{950AA67A-168A-489D-9FC0-1F85E97924DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDiseno.FactoryMethod", "PatronesDiseno.FactoryMethod\PatronesDiseno.FactoryMethod.csproj", "{E5D75E54-622F-483B-B45C-D20C6287BF83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{950AA67A-168A-489D-9FC0-1F85E97924DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{950AA67A-168A-489D-9FC0-1F85E97924DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{950AA67A-168A-489D-9FC0-1F85E97924DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D75E54-622F-483B-B45C-D20C6287BF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D75E54-622F-483B-B45C-D20C6287BF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D75E54-622F-483B-B45C-D20C6287BF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D75E54-622F-483B-B45C-D20C6287BF83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
